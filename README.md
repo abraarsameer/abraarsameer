@@ -1,4 +1,9 @@
-### Hi there 👋
+Interests:
+-
+- Embedded Systems
+- STM32
+- Model aviation and drones
+
 
 <!--
 **abraarsameer/abraarsameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
