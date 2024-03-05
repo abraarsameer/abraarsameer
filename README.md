@@ -3,7 +3,7 @@ Interests:
 - Embedded Systems
 - STM32
 - Model aviation and drones
-- Open source everything!
+- Linux, Free and Open Source Software
 
 
 <!--
